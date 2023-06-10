@@ -30,11 +30,11 @@ game.play_game()
 
 # Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request on [GitHub](https://github.com/danysrour/MorseCode).
+Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request on [GitHub](https://github.com/danysrour/tictactoe_enhanced).
 
 # License
 
-This project is licensed under the [MIT License](https://github.com/danysrour/morsecodeplus.git)
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/danysrour/tictactoe_enhanced/master/LICENSE.txt)
 
 ```text
 
